@@ -12,9 +12,11 @@ https://sitetestesisfrete.000webhostapp.com/
 
 observaçoes: iformacoes do banco de dados mudam do localhosta para a versao para o site online
 
-[img]https://i.imgur.com/hHdKCCp.png[/img]
 
-[img]https://i.imgur.com/D7qmQVu.png[/img]
+
+<img src=”https://i.imgur.com/hHdKCCp.png”>
+
+<img src=”https://i.imgur.com/D7qmQVu.png”>
 
 
 
