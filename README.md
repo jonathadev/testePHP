@@ -1,19 +1,18 @@
 # testeSisfrete
-desafios em php feito para empresa sisfrete
 
-nesses 3 desafios
-tratamento de telefone, string, funções etc...
+Desafios em php feito para empresa sisfrete
 
-com algumas implentacoes
-testando  e colando em pratica as funcionalidades online com crud hospedado com banco de dados
+Nesses 3 desafios:
+Tratamento de telefone, string, funções etc...
+
+Com algumas implementações, testando e colando em pratica as funcionalidades online com crud hospedado com banco de dados
 
 https://sitetestesisfrete.000webhostapp.com/
 
 
-observaçoes: iformacoes do banco de dados mudam do localhosta para a versao para o site online
+Observações: informacoes do banco de dados mudam do localhosta para a versao para o site online
 
-
-
+links das imagens do projeto
 https://i.imgur.com/hHdKCCp.png
 
 https://i.imgur.com/D7qmQVu.png
