@@ -14,9 +14,9 @@ observaçoes: iformacoes do banco de dados mudam do localhosta para a versao par
 
 
 
-<img src=”https://i.imgur.com/hHdKCCp.png”>
+https://i.imgur.com/hHdKCCp.png
 
-<img src=”https://i.imgur.com/D7qmQVu.png”>
+https://i.imgur.com/D7qmQVu.png
 
 
 
